@@ -107,19 +107,19 @@ En este extra, tendrás el desafío de explorar las coordenadas geográficas de 
 
 ### Distribución geográfica Tienda 1
 
-![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1.PNG)
+![Distribución geográfica Tienda 1](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1_1.PNG)
 
 ### Distribución geográfica Tienda 2
 
-![]
+![Distribución geográfica Tienda 2](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1_2.PNG)
 
 ### Distribución geográfica Tienda 3
 
-![]
+![Distribución geográfica Tienda 3](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1_3.PNG)
 
 ### Distribución geográfica Tienda 4
 
-![]
+![Distribución geográfica Tienda 4](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1_4.PNG)
 
 - Genere gráficos de dispersión o mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.
 
