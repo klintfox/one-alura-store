@@ -46,7 +46,7 @@ Consejo: Matplotlib ofrece una variedad de tipos de gráficos que son fáciles d
 
 ## Solution 
 
-### Datos por Tienda
+### Gráficos e Insights Obtenidos
 
 A continuación se presentan los datos relevantes de cada tienda:
 
@@ -58,37 +58,35 @@ A continuación se presentan los datos relevantes de cada tienda:
 | Tienda 4       | $1,038,375,700.00       | 4.00                    | $23,459.46                  | 915                              | 482                                |
 
 
-### Gráficos e Insights Obtenidos
-
-#### Gráfico 1: Análisis de facturación
+## Gráfico 1: Análisis de facturación
 
 Este gráfico muestra el ingreso total de cada tienda, lo que permite visualizar el ranking de cada tienda de forma descendente.
 
-![Gráfico de Tienda que más factura](g1.png)
+![Gráfico de Tienda que más factura](https://github.com/klintfox/one-alura-store/blob/main/captures/g1.PNG)
 
 #### Gráfico 2: Ventas por categoria
 
 Este gráfico muestra las ventas de los productos por categoria, ayudando a identificar la categoria de productos que más vende la cada tienda.
 
-![Gráfico de productos más vendidos por categoria](g2.png)
+![Gráfico de productos más vendidos por categoria](https://github.com/klintfox/one-alura-store/blob/main/captures/g2.PNG)
 
 #### Gráfico 3: Calificación promedio de la tienda
 
 Este gráfico muestra la calificación promedio que tiene cada tienda, lo cual nos permite conocer la experiencia del cliente al realizar una compra y como la tienda es calificada.
 
-|[Gráfico de la Calificación promedia por tienda](g3.png)
+|[Gráfico de la Calificación promedia por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g3.PNG)
 
 #### Gráfico 4: Productos más o menos vendidos
 
 Este gráfico muestra los 5 productos más y menos vendidos en cada tienda. Los productos están clasificados según la cantidad de ventas, lo que permite visualizar cuáles son los más y menos exitosos en cada tienda.
 
-|[Gráfico de los productos más y menos vendidos](g4.png)
+|[Gráfico de los productos más y menos vendidos](https://github.com/klintfox/one-alura-store/blob/main/captures/g4.PNG)
 
 #### Gráfico 5: Costo de envío promedio por tienda
 
 Este gráfico muestra el costo promedio de envío por tienda.
 
-|[Gráfico del costo promedio de envío por tienda](g5.png)
+|[Gráfico del costo promedio de envío por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g5.PNG)
 
 
 ### Insights:
@@ -98,7 +96,25 @@ Este gráfico muestra el costo promedio de envío por tienda.
 - Tienda 2 tiene una calificación excelente (4.04) y su ingreso total es relativamente alto. Su costo de envío está en el promedio, pero no es tan eficiente como el de Tienda 4. Tiene una buena relación entre productos más vendidos y menos vendidos.
 
 ### Recomendación:
-Si el objetivo es vender la tienda menos eficiente, parece que Tienda 4 es la más adecuada para ello, debido a su bajo ingreso total y su rendimiento inferior en comparación con las otras tiendas. Aunque tiene el costo de envío más bajo, su bajo ingreso podría ser indicativo de una tienda menos competitiva.
+Si el objetivo es vender la tienda menos eficiente, la Tienda 4 es la más adecuada para ello, debido a su bajo ingreso total y su rendimiento inferior en comparación con las otras tiendas. Aunque tiene el costo de envío más bajo, su bajo ingreso podría ser indicativo de una tienda menos competitiva.
 
 
 ## Extra
+
+Esta actividad es un extra, por lo tanto es OPCIONAL.
+
+En este extra, tendrás el desafío de explorar las coordenadas geográficas de los datos de ventas e identificar patrones relacionados con la ubicación de las compras. Al utilizar las columnas de latitud y longitud, puede generar visualizaciones para comprender cómo varían las ventas según la ubicación geográfica.
+
+### Desafío:
+
+- Utilice los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.
+![]()
+- Genere gráficos de dispersión o mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.
+![]()
+- Explore si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.
+
+### Sugerencias:
+
+Puede utilizar la biblioteca Matplotlib para gráficos de dispersión o incluso integrarla con otras bibliotecas como Folium para generar mapas interactivos si desea ir más allá.
+
+Analice cómo las variables geográficas influyen en los ingresos y las calificaciones de las tiendas.
