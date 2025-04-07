@@ -96,22 +96,36 @@ Este gráfico muestra el costo promedio de envío por tienda.
 - Tienda 2 tiene una calificación excelente (4.04) y su ingreso total es relativamente alto. Su costo de envío está en el promedio, pero no es tan eficiente como el de Tienda 4. Tiene una buena relación entre productos más vendidos y menos vendidos.
 
 ### Recomendación:
-Si el objetivo es vender la tienda menos eficiente, la Tienda 4 es la más adecuada para ello, debido a su bajo ingreso total y su rendimiento inferior en comparación con las otras tiendas. Aunque tiene el costo de envío más bajo, su bajo ingreso podría ser indicativo de una tienda menos competitiva.
 
+Si el objetivo es vender la tienda menos eficiente, **la Tienda 4** es la más adecuada para ello, debido a su bajo ingreso total y su rendimiento inferior en comparación con las otras tiendas. Aunque tiene el costo de envío más bajo, su bajo ingreso podría ser indicativo de una tienda menos competitiva.
 
 ## Extra
-
-Esta actividad es un extra, por lo tanto es OPCIONAL.
 
 En este extra, tendrás el desafío de explorar las coordenadas geográficas de los datos de ventas e identificar patrones relacionados con la ubicación de las compras. Al utilizar las columnas de latitud y longitud, puede generar visualizaciones para comprender cómo varían las ventas según la ubicación geográfica.
 
 ### Desafío:
 
 - Utilice los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.
-![]()
+**Distribución geográfica Tienda 1**
+![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1.PNG)
+
+**Distribución geográfica Tienda 2**
+
+**Distribución geográfica Tienda 3**
+
+**Distribución geográfica Tienda 4**
+
 - Genere gráficos de dispersión o mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.
-![]()
+
+**Mapa de Calor**
+![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2.PNG)
+
+**Gráficos de dispersion** 
+![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_1.PNG)
+![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_2.PNG)
+
 - Explore si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.
+
 
 ### Sugerencias:
 
