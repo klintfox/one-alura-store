@@ -58,31 +58,31 @@ A continuación se presentan los datos relevantes de cada tienda:
 | Tienda 4       | $1,038,375,700.00       | 4.00                    | $23,459.46                  | 915                              | 482                                |
 
 
-## Gráfico 1: Análisis de facturación
+### Gráfico 1: Análisis de facturación
 
 Este gráfico muestra el ingreso total de cada tienda, lo que permite visualizar el ranking de cada tienda de forma descendente.
 
 ![Gráfico de Tienda que más factura](https://github.com/klintfox/one-alura-store/blob/main/captures/g1.PNG)
 
-#### Gráfico 2: Ventas por categoria
+### Gráfico 2: Ventas por categoria
 
 Este gráfico muestra las ventas de los productos por categoria, ayudando a identificar la categoria de productos que más vende la cada tienda.
 
 ![Gráfico de productos más vendidos por categoria](https://github.com/klintfox/one-alura-store/blob/main/captures/g2.PNG)
 
-#### Gráfico 3: Calificación promedio de la tienda
+### Gráfico 3: Calificación promedio de la tienda
 
 Este gráfico muestra la calificación promedio que tiene cada tienda, lo cual nos permite conocer la experiencia del cliente al realizar una compra y como la tienda es calificada.
 
 |[Gráfico de la Calificación promedia por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g3.PNG)
 
-#### Gráfico 4: Productos más o menos vendidos
+### Gráfico 4: Productos más o menos vendidos
 
 Este gráfico muestra los 5 productos más y menos vendidos en cada tienda. Los productos están clasificados según la cantidad de ventas, lo que permite visualizar cuáles son los más y menos exitosos en cada tienda.
 
 |[Gráfico de los productos más y menos vendidos](https://github.com/klintfox/one-alura-store/blob/main/captures/g4.PNG)
 
-#### Gráfico 5: Costo de envío promedio por tienda
+### Gráfico 5: Costo de envío promedio por tienda
 
 Este gráfico muestra el costo promedio de envío por tienda.
 
