@@ -74,19 +74,19 @@ Este gráfico muestra las ventas de los productos por categoria, ayudando a iden
 
 Este gráfico muestra la calificación promedio que tiene cada tienda, lo cual nos permite conocer la experiencia del cliente al realizar una compra y como la tienda es calificada.
 
-|[Gráfico de la Calificación promedia por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g3.PNG)
+![Gráfico de la Calificación promedia por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g3.PNG)
 
 ### Gráfico 4: Productos más o menos vendidos
 
 Este gráfico muestra los 5 productos más y menos vendidos en cada tienda. Los productos están clasificados según la cantidad de ventas, lo que permite visualizar cuáles son los más y menos exitosos en cada tienda.
 
-|[Gráfico de los productos más y menos vendidos](https://github.com/klintfox/one-alura-store/blob/main/captures/g4.PNG)
+![Gráfico de los productos más y menos vendidos](https://github.com/klintfox/one-alura-store/blob/main/captures/g4.PNG)
 
 ### Gráfico 5: Costo de envío promedio por tienda
 
 Este gráfico muestra el costo promedio de envío por tienda.
 
-|[Gráfico del costo promedio de envío por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g5.PNG)
+![Gráfico del costo promedio de envío por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g5.PNG)
 
 
 ### Insights:
