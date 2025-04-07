@@ -49,7 +49,7 @@ No es necesario mostrar una visualización en cada paso, pero al final del anál
 A continuación se presentan los datos relevantes de cada tienda:
 
 | **Nro Tienda** | **Ingreso Total**       | **Calificación Tienda** | **Costo de Envío Promedio** | **Total Productos Más Vendidos** | **Total Productos Menos Vendidos** |
-|----------------|-------------------------|-------------------------|-----------------------------|----------------------------------|------------------------------------|
+|:---------------:|:-----------------------:|:-----------------------:|:---------------------------:|:--------------------------------:|:----------------------------------:|
 | Tienda 1       | $1,150,880,400.00       | 3.98                    | $26,018.61                  | 958                              | 461                                |
 | Tienda 2       | $1,116,343,500.00       | 4.04                    | $25,216.24                  | 957                              | 484                                |
 | Tienda 3       | $1,098,019,600.00       | 4.05                    | $24,805.68                  | 902                              | 509                                |
