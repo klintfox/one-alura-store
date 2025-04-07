@@ -93,11 +93,9 @@ Este gráfico muestra el costo promedio de envío por tienda.
 - **Tienda 4** tiene el costo de envío más bajo, pero su ingreso total es también el más bajo. Tiene un número competitivo de productos vendidos y una calificación decente (4.00). Aunque tiene un costo de envío eficiente, su rendimiento en términos de ingresos es el más bajo.
 - **Tienda 2** tiene una calificación excelente (4.04) y su ingreso total es relativamente alto. Su costo de envío está en el promedio, pero no es tan eficiente como el de Tienda 4. Tiene una buena relación entre productos más vendidos y menos vendidos.
 
-### Recomendación:
+## Recomendación:
 
-<span style="color: #F7E400;">
 Si el objetivo es vender la tienda menos eficiente, **la Tienda 4** es la más adecuada para ello, debido a su bajo ingreso total y su rendimiento inferior en comparación con las otras tiendas. Aunque tiene el costo de envío más bajo, su bajo ingreso podría ser indicativo de una tienda menos competitiva.
-</span>
 
 ## Extra
 
