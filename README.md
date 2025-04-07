@@ -41,10 +41,8 @@ Recuerde que los gráficos deben complementar el análisis realizado, resaltando
 
 No es necesario mostrar una visualización en cada paso, pero al final del análisis debes generar los gráficos que consideres más útiles para interpretar los datos.
 
-Consejo: Matplotlib ofrece una variedad de tipos de gráficos que son fáciles de implementar, lo que lo convierte en una excelente opción para principiantes. Utilice su creatividad para elegir los gráficos que mejor resalten las tendencias y los conocimientos de su análisis.
 
-
-## Solution 
+## Solución
 
 ### Gráficos e Insights Obtenidos
 
@@ -133,7 +131,7 @@ En este extra, tendrás el desafío de explorar las coordenadas geográficas de 
 
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2_3.PNG)
 
-### Gráficos de dispersion
+### Gráficos de dispersión
 
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_1.PNG)
 
