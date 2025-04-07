@@ -95,9 +95,9 @@ Este gráfico muestra el costo promedio de envío por tienda.
 
 ## Recomendación:
 
-<p style="color: #FFFF00;">
+<span style="color: #FFFF00;">
 Si el objetivo es vender la tienda menos eficiente, la Tienda 4 es la más adecuada para ello, debido a su bajo ingreso total y su rendimiento inferior en comparación con las otras tiendas. Aunque tiene el costo de envío más bajo, su bajo ingreso podría ser indicativo de una tienda menos competitiva.
-</p>
+</span>
 
 ## Extra
 
