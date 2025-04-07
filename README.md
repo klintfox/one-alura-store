@@ -127,7 +127,11 @@ En este extra, tendrás el desafío de explorar las coordenadas geográficas de 
 
 ### Mapa de Calor
 
-![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2.PNG)
+![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2_1.PNG)
+
+![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2_2.PNG)
+
+![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2_3.PNG)
 
 ### Gráficos de dispersion
 
