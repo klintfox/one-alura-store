@@ -90,10 +90,10 @@ Este gráfico muestra el costo promedio de envío por tienda.
 
 
 ### Insights:
-- Tienda 3 tiene el mayor número de productos menos vendidos, lo que podría indicar que tiene dificultades en ciertas categorías de productos. Sin embargo, tiene una calificación alta (4.05), lo que podría compensar su rendimiento en algunos productos. El costo de envío también está dentro de un rango razonable, y sus ingresos son competitivos, aunque no tan altos como los de Tienda 1.
-- Tienda 1 tiene el mayor ingreso total, pero también el mayor costo de envío y la calificación más baja. A pesar de que tiene el mayor número de productos más vendidos, su desempeño en cuanto a la satisfacción del cliente no es tan alto. Además, el alto costo de envío podría estar afectando su eficiencia.
-- Tienda 4 tiene el costo de envío más bajo, pero su ingreso total es también el más bajo. Tiene un número competitivo de productos vendidos y una calificación decente (4.00). Aunque tiene un costo de envío eficiente, su rendimiento en términos de ingresos es el más bajo.
-- Tienda 2 tiene una calificación excelente (4.04) y su ingreso total es relativamente alto. Su costo de envío está en el promedio, pero no es tan eficiente como el de Tienda 4. Tiene una buena relación entre productos más vendidos y menos vendidos.
+- **Tienda 3** tiene el mayor número de productos menos vendidos, lo que podría indicar que tiene dificultades en ciertas categorías de productos. Sin embargo, tiene una calificación alta (4.05), lo que podría compensar su rendimiento en algunos productos. El costo de envío también está dentro de un rango razonable, y sus ingresos son competitivos, aunque no tan altos como los de Tienda 1.
+- **Tienda 1** tiene el mayor ingreso total, pero también el mayor costo de envío y la calificación más baja. A pesar de que tiene el mayor número de productos más vendidos, su desempeño en cuanto a la satisfacción del cliente no es tan alto. Además, el alto costo de envío podría estar afectando su eficiencia.
+- **Tienda 4** tiene el costo de envío más bajo, pero su ingreso total es también el más bajo. Tiene un número competitivo de productos vendidos y una calificación decente (4.00). Aunque tiene un costo de envío eficiente, su rendimiento en términos de ingresos es el más bajo.
+- **Tienda 2** tiene una calificación excelente (4.04) y su ingreso total es relativamente alto. Su costo de envío está en el promedio, pero no es tan eficiente como el de Tienda 4. Tiene una buena relación entre productos más vendidos y menos vendidos.
 
 ### Recomendación:
 
@@ -106,29 +106,33 @@ En este extra, tendrás el desafío de explorar las coordenadas geográficas de 
 ### Desafío:
 
 - Utilice los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.
-**Distribución geográfica Tienda 1**
+
+### Distribución geográfica Tienda 1
+
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1.PNG)
 
-**Distribución geográfica Tienda 2**
+### Distribución geográfica Tienda 2
 
-**Distribución geográfica Tienda 3**
+![]
 
-**Distribución geográfica Tienda 4**
+### Distribución geográfica Tienda 3
+
+![]
+
+### Distribución geográfica Tienda 4
+
+![]
 
 - Genere gráficos de dispersión o mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.
 
-**Mapa de Calor**
+### Mapa de Calor
+
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2.PNG)
 
-**Gráficos de dispersion** 
+### Gráficos de dispersion
+
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_1.PNG)
+
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_2.PNG)
 
 - Explore si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.
-
-
-### Sugerencias:
-
-Puede utilizar la biblioteca Matplotlib para gráficos de dispersión o incluso integrarla con otras bibliotecas como Folium para generar mapas interactivos si desea ir más allá.
-
-Analice cómo las variables geográficas influyen en los ingresos y las calificaciones de las tiendas.
