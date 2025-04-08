@@ -66,12 +66,9 @@ Tienda 4, por el contrario, presenta los ingresos más bajos, lo que refleja un 
 
 ### Gráfico 1: Análisis de facturación
 
-Este gráfico muestra el ingreso total de cada tienda, lo que permite visualizar el ranking de cada tienda de forma descendente.
-
 ![Gráfico de Tienda que más factura](https://github.com/klintfox/one-alura-store/blob/main/captures/g1.PNG)
 
-
-#### 2 Categorías de Productos Más y Menos Vendidos
+### 2 Categorías de Productos Más y Menos Vendidos
 
 El análisis de las categorías de productos más y menos vendidos da una idea del desempeño en cada tienda:
 
@@ -83,9 +80,7 @@ Tienda 3 muestra un alto número de productos menos vendidos, lo que sugiere dif
 
 Tienda 4 tiene un número competitivo de productos vendidos, pero su bajo rendimiento en ingresos totaliza una debilidad.
 
-### Gráfico 2: Ventas por categoria
-
-Este gráfico muestra las ventas de los productos por categoria, ayudando a identificar la categoria de productos que más vende la cada tienda.
+### Gráfico 2: Ventas de productos por categoria
 
 ![Gráfico de productos más vendidos por categoria](https://github.com/klintfox/one-alura-store/blob/main/captures/g2.PNG)
 
@@ -101,9 +96,8 @@ Tienda 3 tiene una calificación igualmente buena (4.05), lo que indica que, a p
 
 Tienda 4 tiene una calificación de 4.00, similar a la de Tienda 1, lo que sugiere que su desempeño en términos de satisfacción no es sobresaliente.
 
-### Gráfico 3: Calificación promedio de la tienda
+### Gráfico 3: Calificación promedio de la tienda por lo clientes
 
-Este gráfico muestra la calificación promedio que tiene cada tienda, lo cual nos permite conocer la experiencia del cliente al realizar una compra y como la tienda es calificada.
 
 ![Gráfico de la Calificación promedia por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g3.PNG)
 
@@ -121,9 +115,9 @@ Tienda 4 tiene un número competitivo de productos vendidos, pero su bajo desemp
 
 ### Gráfico 4: Productos más o menos vendidos
 
-Este gráfico muestra los 5 productos más y menos vendidos en cada tienda. Los productos están clasificados según la cantidad de ventas, lo que permite visualizar cuáles son los más y menos exitosos en cada tienda.
-
 ![Gráfico de los productos más y menos vendidos](https://github.com/klintfox/one-alura-store/blob/main/captures/g4.PNG)
+
+**Este gráfico muestra los 5 productos más y menos vendidos en cada tienda. Los productos están clasificados según la cantidad de ventas, lo que permite visualizar cuáles son los más y menos exitosos en cada tienda.**
 
 ### 5 Costo de Envío Promedio
 
@@ -139,10 +133,7 @@ Tienda 2 tiene un costo de envío promedio, pero no tan eficiente como el de Tie
 
 ### Gráfico 5: Costo de envío promedio por tienda
 
-Este gráfico muestra el costo promedio de envío por tienda.
-
 ![Gráfico del costo promedio de envío por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g5.PNG)
-
 
 ## Conclusión y Recomendación Final
 
