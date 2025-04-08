@@ -152,11 +152,11 @@ Tras analizar todos los factores mencionados, es claro que Tienda 4 tiene el peo
 **En resumen**, Tienda 4 es la tienda que presenta el menor desempeño en comparación con las demás, y por ello, no se recomienda vender a través de esta tienda. Si el objetivo es maximizar el rendimiento en términos de ingresos, satisfacción del cliente y eficiencia, se debe considerar la posibilidad de optar por Tienda 1 o Tienda 2, siendo Tienda 2 la más equilibrada en cuanto a estos aspectos.
 
 
-## Extra
+# Extra
 
 En este extra, tendrás el desafío de explorar las coordenadas geográficas de los datos de ventas e identificar patrones relacionados con la ubicación de las compras. Al utilizar las columnas de latitud y longitud, puede generar visualizaciones para comprender cómo varían las ventas según la ubicación geográfica.
 
-### Desafío:
+## Desafío:
 
 - Utilice los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.
 
@@ -176,9 +176,7 @@ En este extra, tendrás el desafío de explorar las coordenadas geográficas de 
 
 ![Distribución geográfica Tienda 4](https://github.com/klintfox/one-alura-store/blob/main/captures/eg1_4.PNG)
 
-- Genere gráficos de dispersión o mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.
-
-### Mapa de Calor
+## Mapa de Calor
 
 El est mapa de calor se puede observar visualmente las áreas con mayor o menor concentración de ventas de productos en cada tienda.
 
@@ -188,14 +186,13 @@ El est mapa de calor se puede observar visualmente las áreas con mayor o menor 
 
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2_3.PNG)
 
-### Gráficos de dispersión
+## Gráficos de dispersión
 
 **Explicación:**
 
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_1.PNG)
 
 En el gráfico de dispersión de ingresos por latitud, cada punto representa el ingreso de una venta en una ubicación determinada.
-
 
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_2.PNG)
 
