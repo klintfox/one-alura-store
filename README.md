@@ -178,7 +178,7 @@ En este extra, tendrás el desafío de explorar las coordenadas geográficas de 
 
 ## Mapa de Calor
 
-El est mapa de calor se puede observar visualmente las áreas con mayor o menor concentración de ventas de productos en cada tienda.
+El este mapa de calor se puede observar visualmente las áreas con mayor o menor concentración de ventas de productos en cada tienda.
 
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg2_1.PNG)
 
