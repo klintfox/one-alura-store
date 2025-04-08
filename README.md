@@ -42,19 +42,27 @@ Recuerde que los gráficos deben complementar el análisis realizado, resaltando
 No es necesario mostrar una visualización en cada paso, pero al final del análisis debes generar los gráficos que consideres más útiles para interpretar los datos.
 
 
-## Solución
+# Informe Final: Evaluación y Recomendación para la Tienda de Sr. Juan
 
-### Gráficos e Insights Obtenidos
+## Introducción
+
+El objetivo de este análisis es proporcionar al Sr. Juan una recomendación fundamentada sobre qué tienda debería vender, considerando diversos factores clave como los ingresos totales, las categorías de productos más y menos vendidos, las calificaciones promedio de los clientes, los productos más y menos vendidos, y el costo de envío. Tras realizar un análisis exhaustivo, se recomienda considerar especialmente la tienda con el menor desempeño general para la toma de decisiones. A continuación, se presentan los hallazgos clave derivados de este análisis y una justificación clara para la elección final.
+
+## Insights Obtenidos y Gráficos
 
 A continuación se presentan los datos relevantes de cada tienda:
 
-| **Nro Tienda** | **Ingreso Total**       | **Calificación Tienda** | **Costo de Envío Promedio** | **Total Productos Más Vendidos** | **Total Productos Menos Vendidos** |
-|:---------------:|:-----------------------:|:-----------------------:|:---------------------------:|:--------------------------------:|:----------------------------------:|
-| Tienda 1       | $1,150,880,400.00       | 3.98                    | $26,018.61                  | 958                              | 461                                |
-| Tienda 2       | $1,116,343,500.00       | 4.04                    | $25,216.24                  | 957                              | 484                                |
-| Tienda 3       | $1,098,019,600.00       | 4.05                    | $24,805.68                  | 902                              | 509                                |
-| Tienda 4       | $1,038,375,700.00       | 4.00                    | $23,459.46                  | 915                              | 482                                |
+### 1 Ingresos Totales de las Tiendas
 
+El análisis de los ingresos totales proporciona una visión clara de la rentabilidad de cada tienda. Estos son los hallazgos más relevantes:
+
+Tienda 1 tiene el mayor ingreso total, lo que refleja una buena capacidad de generación de ventas.
+
+Tienda 2 sigue de cerca con ingresos relativamente altos.
+
+Tienda 3 tiene ingresos competitivos, aunque son más bajos en comparación con Tienda 1 y Tienda 2.
+
+Tienda 4, por el contrario, presenta los ingresos más bajos, lo que refleja un desempeño económico inferior frente a las demás tiendas.
 
 ### Gráfico 1: Análisis de facturación
 
@@ -62,11 +70,36 @@ Este gráfico muestra el ingreso total de cada tienda, lo que permite visualizar
 
 ![Gráfico de Tienda que más factura](https://github.com/klintfox/one-alura-store/blob/main/captures/g1.PNG)
 
+
+#### 2 Categorías de Productos Más y Menos Vendidos
+
+El análisis de las categorías de productos más y menos vendidos da una idea del desempeño en cada tienda:
+
+Tienda 1 tiene el mayor número de productos más vendidos, lo que sugiere que ciertas categorías tienen una fuerte demanda. Sin embargo, su alto número de productos menos vendidos podría indicar que hay dificultades en algunas categorías.
+
+Tienda 2 tiene una buena relación entre productos más vendidos y menos vendidos, lo que indica que no tiene grandes dificultades en gestionar su inventario.
+
+Tienda 3 muestra un alto número de productos menos vendidos, lo que sugiere dificultades en ciertas categorías de productos. A pesar de esto, su calificación alta podría compensar en parte esta debilidad.
+
+Tienda 4 tiene un número competitivo de productos vendidos, pero su bajo rendimiento en ingresos totaliza una debilidad.
+
 ### Gráfico 2: Ventas por categoria
 
 Este gráfico muestra las ventas de los productos por categoria, ayudando a identificar la categoria de productos que más vende la cada tienda.
 
 ![Gráfico de productos más vendidos por categoria](https://github.com/klintfox/one-alura-store/blob/main/captures/g2.PNG)
+
+### 3 Calificaciones Promedio de los Clientes
+
+La satisfacción del cliente es crucial para la fidelidad y la retención. En este sentido:
+
+Tienda 1 tiene la calificación más baja (4.00), lo que refleja una menor satisfacción del cliente en comparación con las demás tiendas.
+
+Tienda 2 tiene una calificación excelente (4.04), indicando una experiencia positiva de los clientes.
+
+Tienda 3 tiene una calificación igualmente buena (4.05), lo que indica que, a pesar de su bajo desempeño en algunas categorías de productos, sigue siendo apreciada por los clientes.
+
+Tienda 4 tiene una calificación de 4.00, similar a la de Tienda 1, lo que sugiere que su desempeño en términos de satisfacción no es sobresaliente.
 
 ### Gráfico 3: Calificación promedio de la tienda
 
@@ -74,11 +107,35 @@ Este gráfico muestra la calificación promedio que tiene cada tienda, lo cual n
 
 ![Gráfico de la Calificación promedia por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g3.PNG)
 
+### 4 Productos Más y Menos Vendidos
+
+El análisis de los productos más y menos vendidos revela lo siguiente:
+
+Tienda 1 tiene un alto número de productos más vendidos, pero también tiene una cantidad considerable de productos menos vendidos, lo que podría indicar una falta de diversificación o ineficiencia en algunos productos.
+
+Tienda 2 mantiene un balance adecuado entre productos más vendidos y menos vendidos, lo que sugiere una gestión más eficiente de su inventario.
+
+Tienda 3, aunque tiene muchos productos menos vendidos, sigue destacándose por su buena calificación, lo que podría reflejar una lealtad del cliente a sus productos más vendidos.
+
+Tienda 4 tiene un número competitivo de productos vendidos, pero su bajo desempeño en ingresos refleja sus debilidades en este aspecto.
+
 ### Gráfico 4: Productos más o menos vendidos
 
 Este gráfico muestra los 5 productos más y menos vendidos en cada tienda. Los productos están clasificados según la cantidad de ventas, lo que permite visualizar cuáles son los más y menos exitosos en cada tienda.
 
 ![Gráfico de los productos más y menos vendidos](https://github.com/klintfox/one-alura-store/blob/main/captures/g4.PNG)
+
+### 5 Costo de Envío Promedio
+
+El costo de envío es otro factor clave, ya que afecta directamente a las decisiones de compra de los clientes:
+
+Tienda 4 tiene el costo de envío más bajo, lo que la hace más competitiva en términos de costos adicionales para los clientes.
+
+Tienda 3 tiene un costo de envío razonable, lo que también la coloca en una posición competitiva.
+
+Tienda 1 tiene el costo de envío más alto, lo que podría estar afectando su eficiencia y la satisfacción del cliente.
+
+Tienda 2 tiene un costo de envío promedio, pero no tan eficiente como el de Tienda 4.
 
 ### Gráfico 5: Costo de envío promedio por tienda
 
@@ -87,15 +144,22 @@ Este gráfico muestra el costo promedio de envío por tienda.
 ![Gráfico del costo promedio de envío por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g5.PNG)
 
 
-### Insights:
-- **Tienda 3** tiene el mayor número de productos menos vendidos, lo que podría indicar que tiene dificultades en ciertas categorías de productos. Sin embargo, tiene una calificación alta (4.05), lo que podría compensar su rendimiento en algunos productos. El costo de envío también está dentro de un rango razonable, y sus ingresos son competitivos, aunque no tan altos como los de Tienda 1.
-- **Tienda 1** tiene el mayor ingreso total, pero también el mayor costo de envío y la calificación más baja. A pesar de que tiene el mayor número de productos más vendidos, su desempeño en cuanto a la satisfacción del cliente no es tan alto. Además, el alto costo de envío podría estar afectando su eficiencia.
-- **Tienda 4** tiene el costo de envío más bajo, pero su ingreso total es también el más bajo. Tiene un número competitivo de productos vendidos y una calificación decente (4.00). Aunque tiene un costo de envío eficiente, su rendimiento en términos de ingresos es el más bajo.
-- **Tienda 2** tiene una calificación excelente (4.04) y su ingreso total es relativamente alto. Su costo de envío está en el promedio, pero no es tan eficiente como el de Tienda 4. Tiene una buena relación entre productos más vendidos y menos vendidos.
+## Conclusión y Recomendación Final
 
-## Recomendación:
+Tras analizar todos los factores mencionados, es claro que Tienda 4 tiene el peor desempeño general entre las tiendas evaluadas. Aunque tiene el costo de envío más bajo, su bajo ingreso total y su desempeño débil en comparación con las demás tiendas la sitúan como la opción menos competitiva.
 
-**Si el objetivo es vender la tienda menos eficiente, la Tienda 4 es la más adecuada para ello, debido a su bajo ingreso total y su rendimiento inferior en comparación con las otras tiendas. Aunque tiene el costo de envío más bajo, su bajo ingreso podría ser indicativo de una tienda menos competitiva.**
+**Las razones que sustentan esta recomendación son las siguientes:**
+
+- Bajos Ingresos: Tienda 4 tiene los ingresos más bajos, lo que indica un desempeño financiero inferior en comparación con Tienda 1 y Tienda 2.
+
+- Calificación Promedio Baja: Aunque tiene una calificación decente, su nivel de satisfacción del cliente no es tan alto como el de Tienda 2 y Tienda 3.
+
+- Desempeño en Productos: Aunque tiene un número competitivo de productos vendidos, su bajo rendimiento en ingresos refleja una falta de eficiencia en la gestión del inventario o una menor capacidad de venta en algunas categorías.
+
+- Costos de Envío: Aunque su costo de envío es el más bajo, esto no es suficiente para contrarrestar su bajo desempeño general en términos de ingresos y satisfacción del cliente.
+
+**En resumen**, Tienda 4 es la tienda que presenta el menor desempeño en comparación con las demás, y por ello, no se recomienda vender a través de esta tienda. Si el objetivo es maximizar el rendimiento en términos de ingresos, satisfacción del cliente y eficiencia, se debe considerar la posibilidad de optar por Tienda 1 o Tienda 2, siendo Tienda 2 la más equilibrada en cuanto a estos aspectos.
+
 
 ## Extra
 
