@@ -133,8 +133,13 @@ En este extra, tendrás el desafío de explorar las coordenadas geográficas de 
 
 ### Gráficos de dispersión
 
+**Explicación:**
+
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_1.PNG)
+
+En el gráfico de dispersión de ingresos por latitud, cada punto representa el ingreso de una venta en una ubicación determinada.
+
 
 ![](https://github.com/klintfox/one-alura-store/blob/main/captures/eg3_2.PNG)
 
-- Explore si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.
+En el gráfico de dispersión de calificaciones por longitud, cada punto representa la calificación de una venta en una ubicación determinada.
