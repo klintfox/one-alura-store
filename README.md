@@ -88,13 +88,13 @@ Tienda 4 tiene un número competitivo de productos vendidos, pero su bajo rendim
 
 La satisfacción del cliente es crucial para la fidelidad y la retención. En este sentido:
 
-Tienda 1 tiene la calificación más baja (4.00), lo que refleja una menor satisfacción del cliente en comparación con las demás tiendas.
+Tienda 1: Tiene la calificación más baja (3.98), lo que refleja una menor satisfacción de los clientes en comparación con las otras tiendas. Esto sugiere que podría haber áreas de mejora en la experiencia del cliente, que podrían estar afectando la percepción general de la tienda.
 
-Tienda 2 tiene una calificación excelente (4.04), indicando una experiencia positiva de los clientes.
+Tienda 2: Con una calificación de 4.04, Tienda 2 presenta una excelente puntuación, lo que indica una experiencia positiva para los clientes. Este resultado sugiere que las políticas y servicios de esta tienda están alineados con las expectativas de sus clientes.
 
-Tienda 3 tiene una calificación igualmente buena (4.05), lo que indica que, a pesar de su bajo desempeño en algunas categorías de productos, sigue siendo apreciada por los clientes.
+Tienda 3: Con una calificación ligeramente superior a la de Tienda 2 (4.05), Tienda 3 también muestra un desempeño destacado en términos de satisfacción del cliente. A pesar de que algunos productos pueden tener un desempeño inferior, en general, la tienda es apreciada por los clientes y mantiene una buena reputación.
 
-Tienda 4 tiene una calificación de 4.00, similar a la de Tienda 1, lo que sugiere que su desempeño en términos de satisfacción no es sobresaliente.
+Tienda 4: Al igual que Tienda 1, Tienda 4 obtiene una calificación de 4.00, lo que refleja un nivel de satisfacción algo por debajo de Tienda 2 y Tienda 3. Aunque no es una calificación baja, podría indicar que, al igual que Tienda 1, hay aspectos en los que la tienda podría mejorar para alcanzar un nivel superior de satisfacción.
 
 ### Gráfico 3: Calificación promedio de la tienda por lo clientes
 
