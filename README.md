@@ -137,20 +137,19 @@ Tienda 2 tiene un costo de envío promedio, pero no tan eficiente como el de Tie
 
 ## Conclusión y Recomendación Final
 
-Tras analizar todos los factores mencionados, es claro que Tienda 4 tiene el peor desempeño general entre las tiendas evaluadas. Aunque tiene el costo de envío más bajo, su bajo ingreso total y su desempeño débil en comparación con las demás tiendas la sitúan como la opción menos competitiva.
+Tras analizar todos los criterios clave — ingresos totales, productos más y menos vendidos, calificación promedio de los clientes, y costo de envío promedio — la tienda con el peor desempeño general en estos aspectos es Tienda 4.
 
 **Las razones que sustentan esta recomendación son las siguientes:**
 
-- Bajos Ingresos: Tienda 4 tiene los ingresos más bajos, lo que indica un desempeño financiero inferior en comparación con Tienda 1 y Tienda 2.
+- **Bajos Ingresos:** Tienda 4 tiene los ingresos más bajos entre todas las tiendas, lo que refleja un desempeño económico deficiente en comparación con Tienda 1 y Tienda 2, que tienen ingresos más altos y son más rentables.
 
-- Calificación Promedio Baja: Aunque tiene una calificación decente, su nivel de satisfacción del cliente no es tan alto como el de Tienda 2 y Tienda 3.
+- **Desempeño en Productos:** Aunque Tienda 4 tiene un número competitivo de productos vendidos, su bajo rendimiento en productos más vendidos y productos menos vendidos sugiere una ineficiencia en la gestión de su inventario o una menor capacidad de venta en ciertas categorías. Esto impacta directamente su rentabilidad.
 
-- Desempeño en Productos: Aunque tiene un número competitivo de productos vendidos, su bajo rendimiento en ingresos refleja una falta de eficiencia en la gestión del inventario o una menor capacidad de venta en algunas categorías.
+- **Calificación Promedio Baja:** Tienda 4 tiene una calificación promedio de 4.00, la misma que Tienda 1, lo que es inferior a Tienda 2 (4.04) y Tienda 3 (4.05). Una calificación baja indica que los clientes no están completamente satisfechos con su experiencia de compra, lo que podría afectar la fidelidad y las ventas repetidas.
 
-- Costos de Envío: Aunque su costo de envío es el más bajo, esto no es suficiente para contrarrestar su bajo desempeño general en términos de ingresos y satisfacción del cliente.
+- **Costo de Envío Alto:** Si bien Tienda 4 tiene el costo de envío más bajo, lo cual es un punto positivo en términos de competitividad, no es suficiente para contrarrestar sus deficiencias en ingresos, satisfacción del cliente y eficiencia en la gestión de productos.
 
-**En resumen**, Tienda 4 es la tienda que presenta el menor desempeño en comparación con las demás, y por ello, no se recomienda vender a través de esta tienda. Si el objetivo es maximizar el rendimiento en términos de ingresos, satisfacción del cliente y eficiencia, se debe considerar la posibilidad de optar por Tienda 1 o Tienda 2, siendo Tienda 2 la más equilibrada en cuanto a estos aspectos.
-
+**En resumen**, Tienda 4 es la que presenta el peor desempeño en todos los criterios evaluados y, por lo tanto, es la tienda que se recomienda vender. Aunque su costo de envío es el más bajo, los ingresos bajos, la calificación de los clientes por debajo del promedio y la debilidad en el desempeño de productos hacen que Tienda 4 sea la opción menos competitiva.
 
 # Extra
 
