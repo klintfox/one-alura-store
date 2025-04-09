@@ -96,7 +96,7 @@ Tienda 3: Con una calificación ligeramente superior a la de Tienda 2 (4.05), Ti
 
 Tienda 4: Al igual que Tienda 1, Tienda 4 obtiene una calificación de 4.00, lo que refleja un nivel de satisfacción algo por debajo de Tienda 2 y Tienda 3. Aunque no es una calificación baja, podría indicar que, al igual que Tienda 1, hay aspectos en los que la tienda podría mejorar para alcanzar un nivel superior de satisfacción.
 
-### Gráfico 3: Calificación promedio de la tienda por lo clientes
+### Gráfico 3: Calificación promedio de la tienda por clientes
 
 
 ![Gráfico de la Calificación promedia por tienda](https://github.com/klintfox/one-alura-store/blob/main/captures/g3.PNG)
