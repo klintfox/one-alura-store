@@ -47,6 +47,7 @@ No es necesario mostrar una visualización en cada paso, pero al final del anál
 # Informe Final: Evaluación y Recomendación para la Tienda de Sr. Juan
 
 [Alura Store - Ver proyecto publicado](https://alura-store.streamlit.app/)
+<a href="https://alura-store.streamlit.app/" target="_blank">Ver Proyecto</a>
 
 ## Introducción
 
