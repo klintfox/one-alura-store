@@ -33,6 +33,7 @@ Los datos se almacenan en DataFrames: cada tienda tiene su propio conjunto de da
 
 
 ## Visualización de datos
+
 Después de realizar los análisis, es hora de transformar sus resultados en visualizaciones que le ayuden a comprender mejor los patrones y los insights encontrados.
 
 De acuerdo con funciones que haya creado, le recomendamos que genere al menos tres gráficos. Estos gráficos deben ser de diferentes tipos (como barras, líneas, dispersión, entre otros) para presentar una visión completa de los datos.
@@ -42,7 +43,10 @@ Recuerde que los gráficos deben complementar el análisis realizado, resaltando
 No es necesario mostrar una visualización en cada paso, pero al final del análisis debes generar los gráficos que consideres más útiles para interpretar los datos.
 
 
+
 # Informe Final: Evaluación y Recomendación para la Tienda de Sr. Juan
+
+![VER PROYECTO ONLINE](https://alura-store.streamlit.app/)
 
 ## Introducción
 
