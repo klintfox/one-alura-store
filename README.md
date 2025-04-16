@@ -48,6 +48,8 @@ No es necesario mostrar una visualización en cada paso, pero al final del anál
 
 [Alura Store - Ver proyecto publicado](https://alura-store.streamlit.app/)
 
+** Ver video**
+
 [Video del proyecto](https://github.com/klintfox/one-alura-store/blob/main/captures/video.mp4)
 
 ## Introducción
